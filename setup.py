@@ -57,6 +57,6 @@
 
 from distutils.core import setup, Extension
 setup(name='protocol',
-      version='0.1',
+      version='0.2',
       scripts=['protocol', 'constants.py', 'specs.py']
       )
